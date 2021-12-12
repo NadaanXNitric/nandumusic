@@ -18,7 +18,7 @@ Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : [𝐍 𝐢 𝐭 𝐫 𝐢 𝐜 𓆩👅𓆪](http
             [
                 [
                     InlineKeyboardButton(
-                        "🌸 ᴏᴡɴᴇʀ 🌸", url="https://t.me/Sanki_Owner")
+                        "🌸 ᴏᴡɴᴇʀ 🌸", url="https://t.me/Black_Rose_QUEEN")
                   ],[
                     InlineKeyboardButton(
                         "💡 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Sanki_BOTs"
